@@ -1,3 +1,3 @@
-module github.com/Dionis-shark-prog/greeting
+module github.com/Dionis-shark-prog/greetingnew
 
 go 1.22.3
